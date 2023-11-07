@@ -4,8 +4,8 @@
 
 
 0. [개요 ](#0-프로젝트-개요)
-1. [Textrank 알고리즘의 기원 Pagerank란? ](#1-Textrank의-기원-Pagerank란?)
-2. [Textrank란? ](#2-그렇다면-Textrank란?)
+1. [Textrank 알고리즘의 기원 Pagerank란? ](#1-Textrank의-기원-Pagerank란)
+2. [Textrank란? ](#2-그렇다면-Textrank란)
 3. [TextRank 함수 설명 ](#3-TextRank-함수-설명)
 4. [본문 요약 함수 설명 ](#4-본문-요약-함수-설명)
 5. [개선해야 할 점 ](#5-개선해야-할-점)
