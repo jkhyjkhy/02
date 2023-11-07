@@ -3,9 +3,9 @@
 다음과 같은 목차로 구성됩니다.
 
 
-0. [ 개요 ](#0-개요)
-1. [Textrank 알고리즘의 기원 Pagerank란? ](#1-Textrank-알고리즘의-기원-Pagerank란?)
-2. [Textrank란? ](#2-Textrank란?)
+0. [개요 ](#0-개요)
+1. [Textrank 알고리즘의 기원 Pagerank란? ](#1-Textrank-알고리즘의-기원-Pagerank란-?)
+2. [Textrank란? ](#2-Textrank란-?)
 3. [TextRank 함수 설명 ](#3-TextRank-함수-설명)
 4. [본문 요약 함수 설명 ](#4-본문-요약-함수-설명)
 5. [개선해야 할 점 ](#5-개선해야-할-점)
@@ -27,7 +27,7 @@ TextRank 알고리즘을 구현해보는 프로젝트입니다.
 ---
 
 ### 1. Textrank 알고리즘의 기원 Pagerank란?
-글은 Pagerank라는 알고리즘을 통해 검색 서비스의 질을 크게 개선했다.
+구글은 Pagerank라는 알고리즘을 통해 검색 서비스의 질을 크게 개선했다.
 
 
 Pagerank의 핵심은 ＇더 중요하고 유용한 페이지는 다른 페이지로부터 더 많은 링크를 받는다.’ 라는 것이다.
