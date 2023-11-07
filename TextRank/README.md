@@ -3,8 +3,8 @@
 다음과 같은 목차로 구성됩니다.
 
 
-0. [개요](#0._개요)
-1. [Textrank 알고리즘의 기원 Pagerank란?](#1._Textrank_알고리즘의_기원_Pagerank란?)
+0. [개요](#0.-개요)
+1. [Textrank 알고리즘의 기원 Pagerank란?](#1._Textrank-알고리즘의-기원-Pagerank란?)
 2. [Textrank란?](#2._Textrank란?)
 3. [TextRank 함수 설명](#3._TextRank_함수_설명)
 4. [본문 요약 함수 설명](#4._본문_요약_함수_설명)
